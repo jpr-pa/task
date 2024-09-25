@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 FROM httpd
 COPY . /D:\taskwed\spering-html
+=======
+FROM nginx:latest
+COPY . /D:\taskwed
+>>>>>>> 2fffb0c964e93befeb87cc330e8a32ada486b93b
