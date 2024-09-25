@@ -1,2 +1,2 @@
 FROM httpd
-COPY . /D:\applications\WEBDEV\spering-html
+COPY . /D:\taskwed\spering-html
